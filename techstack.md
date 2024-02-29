@@ -3,12 +3,12 @@
 ## Tech Stack
 2lambda123/rails-erb-loader is built on the following main stack:
 
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- [Ruby](https://www.ruby-lang.org) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [Ruby](https://www.ruby-lang.org) – Languages
 - [ESLint](http://eslint.org/) – Code Review
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
 
 Full tech stack [here](/techstack.md)
 
@@ -18,12 +18,12 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/rails-erb-loader is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
 
 Full tech stack [here](/techstack.md)
 
@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/rails-erb-loader](https://github.com/2lambda123/rails-erb-loader)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|19<br/>Tools used|01/09/24 <br/>Report generated|
+|19<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
